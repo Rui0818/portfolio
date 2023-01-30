@@ -1,4 +1,4 @@
-# Introduction and Problem
+# A predictive pricing tool for the used cars market in the U.S.
 
 Over the year 2020, as the pandemic disrupted supply chains and caused shortages in critical auto components, resulting in a lack of new vehicles, which caused the used car price
 surging.
