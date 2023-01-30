@@ -2,7 +2,7 @@
 Hi, my name is Rui Zhang. Welcome to my portfolio page. I am an experienced data scientist since 2013. 
 
 ## Project list in this repo
-- A predictive pricing tool for used cars
+- A predictive pricing tool for used cars. ([repo](https://github.com/Rui0818/portfolio/tree/main/used_car))
 - 
 
 ## Skill set 
