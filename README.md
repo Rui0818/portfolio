@@ -11,6 +11,7 @@ Hi, my name is Rui Zhang. Welcome to my portfolio page. I am an experienced data
 - statistical modeling 
 - advanced analytics
 - credit risk management 
+- NLP
 - Python 
 - R 
 - SAS 
@@ -46,3 +47,6 @@ Presented on the National Symposium of Economics and Statistics, Beijing, China.
 - *Financial Crisis and Effectiveness of Monetary Policy in China*. Chinese Collective Economy, 10/2013.
 
 - *The Impact of BRICS countries on Global Economy*. Liaoning Economy Statistics, 08/2012.
+
+# Data Science/Computer Science coursework
+- 
