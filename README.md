@@ -2,23 +2,27 @@
 Hi, my name is Rui Zhang. Welcome to my portfolio page. I am an experienced data scientist since 2013. 
 
 ## Project list in this repo
-- Restaurant success prediction ([repo](https://github.com/Rui0818/portfolio/tree/main/restaurant_success))
+- Restaurant success prediction ([dashboard](https://lookerstudio.google.com/s/tf1nB1wyJ6A)[repo](https://github.com/Rui0818/portfolio/tree/main/restaurant_success))
 - Semantic search prototype ([repo](https://github.com/Rui0818/portfolio/tree/main/semantic_search))
 - A predictive pricing tool for used cars. ([repo](https://github.com/Rui0818/portfolio/tree/main/used_car))
 - Predicting loan defaults at the loan origination time ([repo](https://github.com/Rui0818/portfolio/tree/main/credit_risk), [web application](https://rui0818-seas6401-loan-app-jymeg5.streamlit.app/))
 
 ## Skill set 
-- machine learning 
-- deep learning 
-- statistical modeling 
-- advanced analytics
-- credit risk management 
+- Machine Learning
+- Deep Learning
+- Statistical Modeling
 - NLP
-- Python 
-- R 
-- SAS 
+- Python
+- R
 - SQL
-- Looker
+- Data Visualization
+- Looker Studio
+- Spark
+- Shell Scripting 
+- AWS
+- Git 
+  
+
 
 ## Previous roles
 
@@ -42,7 +46,7 @@ Presented on the National Symposium of Economics and Statistics, Beijing, China.
 
 - *The Impact of BRICS countries on Global Economy*. Liaoning Economy Statistics, 08/2012.
 
-# DS/CS coursework
+## DS/CS coursework
 - Mathematical Modeling
 - Time Series
 - Linear Models
