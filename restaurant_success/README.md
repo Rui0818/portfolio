@@ -13,7 +13,7 @@ This is an end-to-end project starting from building relational database, then c
 ### Database
 
 The raw Yelp dataset has a size of 9GB, including 150K business and ~7M customer reviews, etc. I created a relational database using AWS RDS for data storage and retrieving. The architecture for the database:
-<img src="img/mysql_arch.png" width=1000>
+<img src="img/mysql_arch.png" width=600>
 
 Tech stack:
 <img src="img/tech_stack.png" width=1000>
