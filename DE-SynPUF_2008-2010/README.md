@@ -8,7 +8,7 @@ A Streamlit web application is serving on AWS EC2, try it out [here](http://3.80
 
 Screenshot of the application:
 
-    <img src="screen_demo.png" width="600">
+<img src="screen_demo.png" width=800>
 
 ## Key results from the analysis
 
@@ -19,3 +19,4 @@ Screenshot of the application:
 - The claim payments distribution demonstrates a right-skewed shape. The most frequent payment amount is \\$4000-\\$6,000. Around 90% of the claims fall below the \\$20000 mark. 
 
     <img src="dist_payment.png" width="1000">
+
